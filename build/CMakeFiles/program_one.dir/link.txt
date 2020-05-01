@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/program_one.dir/hello_world.c.o  -o program_one libhello.a 

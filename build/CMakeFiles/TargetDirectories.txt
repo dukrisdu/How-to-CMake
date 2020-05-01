@@ -1,0 +1,4 @@
+/home/kris/Documents/how_to_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/kris/Documents/how_to_cmake/build/CMakeFiles/edit_cache.dir
+/home/kris/Documents/how_to_cmake/build/CMakeFiles/program_one.dir
+/home/kris/Documents/how_to_cmake/build/CMakeFiles/hello.dir
